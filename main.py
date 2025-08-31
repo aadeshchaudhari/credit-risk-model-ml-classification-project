@@ -22,8 +22,12 @@ with row1[2]:
 # Loan-to-income ratio
 loan_to_income_ratio = loan_amount / income if income > 0 else 0
 with row2[0]:
-    st.text("Loan to Income Ratio:")
-    st.text(f"{loan_to_income_ratio:.2f}")
+    loan_to_income_ratio = st.number_input(
+        'Loan to Income Ratio',
+        min_value=0.0,
+        step=0.01,
+        value=loan_amount / income if income > 0 else 0
+    )
 
 # Row 2 more inputs
 with row2[1]:
@@ -60,6 +64,8 @@ if st.button('Calculate Risk'):
     st.write(f"**Default Probability:** {probability:.2%}")
     st.write(f"**Credit Score:** {credit_score}")
     st.write(f"**Rating:** {rating}")
+
+
 
 
 
