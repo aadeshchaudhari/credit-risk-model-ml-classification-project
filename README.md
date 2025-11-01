@@ -32,7 +32,6 @@ https://finance-credit-risk-model-ml-classification-project.streamlit.app/
 | **Models Tested**       | Logistic Regression, Random Forest, XGBoost            |
 | **Final Model**         | XGBoost optimized using Optuna                         |
 | **Performance**         | AUC: 0.98, Gini: 0.96, KS Statistic: 85.98%            |
-| **Interpretability**    | SHAP for global insights, LIME for local explanations  |
 
   
 ## 📊 Results
