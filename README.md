@@ -1,4 +1,4 @@
-### credit-risk-model-ml-classification-project
+# credit-risk-model-ml-classification-project
 
 ## 💳 Credit Risk Modeling and Default Risk Prediction
 
