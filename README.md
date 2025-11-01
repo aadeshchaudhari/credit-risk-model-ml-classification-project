@@ -1,6 +1,4 @@
-# credit-risk-model-ml-classification-project
-
-## 💳 Credit Risk Modeling and Default Risk Prediction
+# 💳 Credit Risk Modeling and Default Risk Prediction Using Machine Learning Classification Method
 
 A Machine Learning Powered Credit Risk Assessment System for Smarter Lending Decisions
 🚀 Project Overview
