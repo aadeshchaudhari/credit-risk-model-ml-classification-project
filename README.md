@@ -62,18 +62,7 @@ Default probability
 - The interface is interactive, easy to use, and suitable for business demonstrations.
 
 ## 🗂️ Project Structure
-project-root/
-│
-├── model/
-│   ├── model_data.pkl              # Saved ML model and preprocessing pipeline
-│   ├── tuned_hyperparameters.txt   # Best hyperparameters from Optuna tuning
-│
-├── main.py                         # Streamlit app entry point
-├── utils.py                        # Helper functions for prediction and preprocessing
-├── requirements.txt                # Required Python packages
-├── Finance.JPG               		# Project image or logo
-├── README.md                       # Documentation file
-
+<img width="962" height="503" alt="ML classification git readme" src="https://github.com/user-attachments/assets/0fa78428-092a-4dcd-88c4-4b1ff3386d9e" />
 
 
 ## ⚙️ Setup Guide
