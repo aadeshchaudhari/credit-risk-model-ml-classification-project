@@ -113,7 +113,7 @@ You can modify the project easily:
 | ----------------- | --------------------------------------------------------------- |
 | **Language**      | Python 3.8 or higher                                            |
 | **Libraries**     | Streamlit, scikit-learn, XGBoost, Optuna, Pandas, NumPy, Joblib |
-| **Visualization** | Matplotlib, SHAP, LIME                                          |
+| **Visualization** | Matplotlib, Seaborn                                         	  |
 | **Deployment**    | Streamlit web interface                                         |
 
 
